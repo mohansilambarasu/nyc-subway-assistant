@@ -1,1 +1,0 @@
-{"transitFeeds":[{"type":"gtfs","feedId":"MTA","source":"subway.gtfs.zip"}],"osm":[{"source":"NewYork.osm.pbf"}],"embedRouterConfig":false}
