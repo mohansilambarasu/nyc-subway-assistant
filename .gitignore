@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+runtime/*
+!runtime/.gitkeep
+data/*
+!data/*-config.json
+!data/.gitkeep
+
+# Local credentials and generated verification artifacts
+.env.*
+!.env.example
+*.pem
+*.key
+docs/*-results.json
